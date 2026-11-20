@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Captcha temp files
+court-captcha.png
+
+# Downloaded files
+*.pdf
+
+# Operating System
+.DS_Store
+Thumbs.db
